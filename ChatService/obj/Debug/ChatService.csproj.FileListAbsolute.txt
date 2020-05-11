@@ -1,0 +1,13 @@
+E:\Exam\EazyChat\ChatService\bin\Debug\ChatService.dll.config
+E:\Exam\EazyChat\ChatService\bin\Debug\ChatService.dll
+E:\Exam\EazyChat\ChatService\bin\Debug\ChatService.pdb
+E:\Exam\EazyChat\ChatService\bin\Debug\DataBase.dll
+E:\Exam\EazyChat\ChatService\bin\Debug\EntityFramework.dll
+E:\Exam\EazyChat\ChatService\bin\Debug\EntityFramework.SqlServer.dll
+E:\Exam\EazyChat\ChatService\bin\Debug\EntityFramework.xml
+E:\Exam\EazyChat\ChatService\bin\Debug\EntityFramework.SqlServer.xml
+E:\Exam\EazyChat\ChatService\obj\Debug\ChatService.csprojAssemblyReference.cache
+E:\Exam\EazyChat\ChatService\obj\Debug\ChatService.csproj.CoreCompileInputs.cache
+E:\Exam\EazyChat\ChatService\obj\Debug\ChatService.csproj.CopyComplete
+E:\Exam\EazyChat\ChatService\obj\Debug\ChatService.dll
+E:\Exam\EazyChat\ChatService\obj\Debug\ChatService.pdb
